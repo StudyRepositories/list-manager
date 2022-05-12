@@ -1,0 +1,6 @@
+[submodule "list-manager-back"]
+	path = list-manager-back
+	url = https://github.com/StudyRepositories/list-manager-back.git
+[submodule "list-manager-front"]
+	path = list-manager-front
+	url = https://github.com/StudyRepositories/list-manager-front.git
